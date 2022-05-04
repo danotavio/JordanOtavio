@@ -2,4 +2,4 @@
 - 👀 I’m interested in javascript and UX/UI Design
 - 🌱 I’m currently learning Javascript
 - 📫 You can reach me in my e-mail danotavio@gmail.com
-- 🦾 You can see my portfolio in be.net/jordanotavio
+- 🦾 You can see my portfolio in https://be.net/jordanotavio
