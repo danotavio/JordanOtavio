@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @danotavio
-- 👀 I’m interested in javascript and UX/UI Design
+- 👀 I’m interested in Front-End and UX/UI Design
 - 🌱 I’m currently learning React-Native
 - 📫 You can reach me in my e-mail danotavio@gmail.com
 - 🦾 You can see my portfolio in https://be.net/jordanotavio
